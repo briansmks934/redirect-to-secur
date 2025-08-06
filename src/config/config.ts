@@ -30,7 +30,7 @@ export const defaultConfig: Config = {
     textColor: '#1F2937',
   },
   turnstile: {
-    siteKey: '0x4AAAAAABaeDHdwHVmJobfE',
+    siteKey: '0x4AAAAAABpFROy5M7eEOqzo',
     maxAttempts: 5,
     cooldownPeriod: 3600000 // 1 hour
   }
